@@ -3,3 +3,4 @@
 !/README.md
 */.exercism/
 target/
+.lein-failures
