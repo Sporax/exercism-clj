@@ -4,3 +4,5 @@
 */.exercism/
 target/
 .lein-failures
+.cpcache
+HINTS.md
